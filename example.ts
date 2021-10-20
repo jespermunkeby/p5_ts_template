@@ -1,0 +1,1 @@
+export function my_function(){return 0}
